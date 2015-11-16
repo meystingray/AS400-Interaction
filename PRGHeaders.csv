@@ -1,0 +1,2 @@
+DATE,SHIFT,TIME,PRODUCT,SKID,LINE,H/D,GRS WGT,VARIANCE,NOM WGT,MAX WGT,MIN WGT,TARE WGT,NET WGT,SKID ID,SKID QTY,SCHED BY,PARTIAL,QTY/SKID,VAR ERROR,FILM,PROD TYPE,LOT NUMBER,SCALE,EXTRA
+character,integer,character,factor,integer,integer,character,character,numeric,numeric,numeric,numeric,numeric,character,integer,integer,character,character,integer,character,character,character,integer,character,character

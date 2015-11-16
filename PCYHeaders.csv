@@ -1,0 +1,2 @@
+Convert Mfg Date,Convert Mfg Time,Convert Skid ID,Convert Loc,Convert Line,Convert Product,Rollstock Skid ID,Rollstock Loc,Rollstock Line,Rollstock Product,Drawtape Skid ID,Drawtape Loc,Drawtape Line,Drawtape Product,Extra
+character,character,numeric,factor,character,factor,numeric,factor,character,factor,numeric,factor,integer,factor,character
