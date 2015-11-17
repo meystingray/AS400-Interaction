@@ -75,7 +75,6 @@ for (i in 1:numFiles) {
     times <- paste("0",times[timelen==1])
  }
   
-  
   completeData <- rbind(completeData,thisData)
   
 }

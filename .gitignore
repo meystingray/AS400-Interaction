@@ -3,4 +3,5 @@
 .RData
 .httr-oauth
 .Rprofile
-.CSV
+*.CSV
+*.csv
