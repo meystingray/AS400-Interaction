@@ -1,7 +1,7 @@
 read.Data <- function(filePathArg=NULL,dataType=NULL) {
 
 thisWD <- getwd()
-setwd("C:/Users/seanco/Desktop/R/AS400")
+#setwd("C:/Users/seanco/Desktop/R/AS400")
 
 # ensure dataType ________________________________________________
 if (is.null(dataType))  {
